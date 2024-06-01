@@ -1,0 +1,11 @@
+"War in 8" is a rational game for all ages. Two people take part 
+in the game, each of whom is looking to get out from the 
+opposing armed struggle. The game can end with victory to 
+one of the players, or undecided, draw. During the game, 
+by alternatingmoves the black and white soldiers seek to 
+circle the enemy soldiers. Moving a part is done only in
+ a neighboring square on the diagonal and free. Rule basic
+ in the course of the fight says that the piece that after
+ a blocked move will be removed from the game board without
+ receiving the right to re-enter the fight.
+--------------------------------------------------

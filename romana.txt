@@ -1,0 +1,10 @@
+Jocul Razboi in 8 este un joc rational pentru toale varstele.
+La joc iau parte doua persoane, care urmaresc, fiecare, a scoate
+din lupta armata adversa. Jocul se poate incheia cu victoria
+unuia dintre jucatori, sau nedecis, remiza. In cursul jocului,
+prin mutari alternative soldatii albi si negri urmaresc sa
+incercuiasca soldatii adversi. Mutarea unei piese se face
+numai intr-un patratel vecin pe diagonala si liber. Regula
+de baza in desfasurarea luptei spune ca piesa care dupa
+efectuarea unei mutari s a blocat, va fi luata de pe tabla de joc
+fara a mai primi dreptul de a reintra in lupta.

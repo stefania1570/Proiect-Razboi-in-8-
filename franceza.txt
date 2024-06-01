@@ -1,0 +1,11 @@
+"War in 8" est un jeu rationnel pour tous les ages. Deux
+personnes participent au jeu, chacune essayant de sortir de la 
+lutte armee opposee. Le jeu peut se terminer par la victoire a 
+l'un des joueurs, ou indecis, tirage au sort. Pendant la partie, 
+en alternant mouvements, les soldats noirs et blancs cherchent
+a encercler les soldats ennemis. Le deplacement d'une piece est
+fait uniquement dans un carre voisin en diagonale et libre.
+Regner basique au cours du combat dit que la piece qui apres 
+un coup bloque sera retire du plateau de jeu sans recevoir le 
+droit de reprendre le combat.
+-------------------------------------------------------
